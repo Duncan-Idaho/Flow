@@ -1,0 +1,19 @@
+{
+  "name": "flow",
+  "version": "1.0.0",
+  "description": "When chatting becomes a streams of messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Duncan-Idaho",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.1.5",
+    "express": "^4.13.0",
+    "lodash": "^3.10.0",
+    "mongodb": "^2.0.35",
+    "promised-mongo": "^1.2.0",
+    "q": "^1.4.1"
+  }
+}
